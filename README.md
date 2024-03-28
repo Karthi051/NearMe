@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 25:3:24
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -61,6 +61,8 @@ Execute the programs and publish them.
 ![Screenshot 2024-03-27 094256](https://github.com/Karthi051/NearMe/assets/148327224/c2581926-f9d6-477e-9055-008019e2121a)
 ![Screenshot 2024-03-27 094357](https://github.com/Karthi051/NearMe/assets/148327224/0ce17591-e67f-46c8-b84b-f96b3695bd38)
 ![Screenshot 2024-03-27 094326](https://github.com/Karthi051/NearMe/assets/148327224/e847f35f-8481-4c26-868d-6c35f9bb4be6)
+![Screenshot 2024-03-27 094222](https://github.com/Karthi051/NearMe/assets/148327224/95f4bafb-ce02-4dc9-8b38-4a8837e2d9d4)
+
 
 
 
